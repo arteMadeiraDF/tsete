@@ -49,10 +49,41 @@ document.addEventListener("DOMContentLoaded", () => {
   // Exemplo de dados para a galeria (Pode ser expandido)
   const quadrosData = [
     { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro1.jpg", titulo: "Quadro 1", ano: "2023", autor: "DF", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
     // Adicione mais quadros aqui
   ];
 
   const imansData = [
+    { src: "iman1.jpg", titulo: "Íman 1", ano: "2023", autor: "DF", numero: "01", comp: "5cm", larg: "5cm", esp: "0.5cm", desc: "Descrição do íman 1." },
+    { src: "iman1.jpg", titulo: "Íman 1", ano: "2023", autor: "DF", numero: "01", comp: "5cm", larg: "5cm", esp: "0.5cm", desc: "Descrição do íman 1." },
     { src: "iman1.jpg", titulo: "Íman 1", ano: "2023", autor: "DF", numero: "01", comp: "5cm", larg: "5cm", esp: "0.5cm", desc: "Descrição do íman 1." },
     // Adicione mais ímanes aqui
   ];

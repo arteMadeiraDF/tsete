@@ -78,6 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
     { src: "quadro28.jpg", titulo: "Quadro 1", ano: "2023", autor: "Diogo Fernandes", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
     { src: "quadro29.jpg", titulo: "Quadro 1", ano: "2023", autor: "Diogo Fernandes", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
     { src: "quadro30.jpg", titulo: "Quadro 1", ano: "2023", autor: "Diogo Fernandes", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
+    { src: "quadro31.jpeg", titulo: "Quadro 1", ano: "2023", autor: "Diogo Fernandes", numero: "01", comp: "50cm", larg: "40cm", esp: "2cm", desc: "Descrição do quadro 1." },
     // Adicione mais quadros aqui
   ];
 

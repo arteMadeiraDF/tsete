@@ -84,10 +84,10 @@ document.addEventListener("DOMContentLoaded", () => {
   ];
 
   const imansData = [
-    { src: "imane1.jpeg", titulo: "Íman 1", ano: "2023", autor: "DF", numero: "01", comp: "5cm", larg: "5cm", esp: "0.5cm", desc: "Descrição do íman 1." },
-    { src: "imane 2.jpeg", titulo: "Íman 1", ano: "2023", autor: "DF", numero: "01", comp: "5cm", larg: "5cm", esp: "0.5cm", desc: "Descrição do íman 1." },
-    { src: "iamn3.jpeg", titulo: "Íman 1", ano: "2023", autor: "DF", numero: "01", comp: "5cm", larg: "5cm", esp: "0.5cm", desc: "Descrição do íman 1." },
-    { src: "imane4.jpeg", titulo: "Íman 1", ano: "2023", autor: "DF", numero: "01", comp: "5cm", larg: "5cm", esp: "0.5cm", desc: "Descrição do íman 1." },
+    { src: "imane1.jpeg", titulo: "Marcos N2", ano: "2024", autor: "Diogo Fernandes", desc: "Na imagem ao lado está fotografado uns exemplares de Ímans representativos sobre a N2 ao longo de Portugal.  Marcos disponíveis: Vila nova do ceira; Gois; Poiares;" },
+    { src: "imane 2.jpeg", titulo: "KMT", ano: "2025", autor: "Diogo Fernandes", desc: "Na imagem ao lado está fotografado uns exemplares de Ímans com o logo da marca KMT." },
+    { src: "iamn3.jpeg", titulo: "Renault", ano: "2025", autor: "Diogo Fernandes", desc: "Na imagem ao lado está fotografado uns exemplares de Ímans com o logo da marca Renault." },
+    { src: "imane4.jpeg", titulo: "Dacia", ano: "2025", autor: "Diogo Fernandes",desc: "Na imagem ao lado está fotografado uns exemplares de Ímans com o logo da marca Dacia." },
     // Adicione mais ímanes aqui
   ];
 
